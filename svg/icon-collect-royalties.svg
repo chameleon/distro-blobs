@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Collect_Royalties</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="157.892863%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Ver-1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final-Ver-1.0" transform="translate(-885.000000, -4509.000000)">
+            <g id="Collect_Royalties" transform="translate(885.000000, 4509.000000)">
+                <path d="M35.0267502,11.9806133 C19.7706195,18.1147236 9,33.0495553 9,50.5 C9,65.1115104 16.5512337,77.9593357 27.9641068,85.3538815 M50.5,92 C73.4198171,92 92,73.4198171 92,50.5 C92,27.5801829 73.4198171,9 50.5,9 C49.0418418,9 47.6012482,9.07520332 46.1818863,9.22194298" id="Oval-7" stroke="#49557D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Path-13" stroke="#49557D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="91 83 99 91 91 99"></polyline>
+                <polyline id="Path-13" stroke="#49557D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(50.000000, 9.000000) scale(-1, 1) translate(-50.000000, -9.000000) " points="46 1 54 9 46 17"></polyline>
+                <path d="M98.4839426,91 L78,91" id="Path-14" stroke="#49557D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M51.4839426,92 L1,92" id="Path-14" stroke="#49557D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval-8" stroke="url(#linearGradient-1)" stroke-width="2" cx="50.5" cy="50.5" r="24.5"></circle>
+                <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(42.000000, 34.000000)" stroke="url(#linearGradient-1)" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M8.09579174,31.1559211 L8.09579174,26.7556205" id="Path-12" stroke-width="2"></path>
+                    <path d="M8.09579174,4.64163534 C8.09579174,1.70810166 8.09579174,0.241334826 8.09579174,0.241334826" id="Path-12" stroke-width="2"></path>
+                    <path d="M14.9793463,9.04718045 C12.75255,5.03257959 9.20325048,3.78828135 4.33144756,5.31428571 C0.1921305,6.65225942 -0.394925892,14.6265977 9.1762137,15.6972899 C13.6481965,16.562218 16.4267619,17.2558271 15.7400371,22.0227444 C14.7437424,25.8484023 9.57379849,26.7933036 8.17922234,26.7933036 C6.78464619,26.7933036 0.959618875,26.0067669 0.514547414,21.103125" id="Path-11" stroke-width="2"></path>
+                </g>
+                <g id="Group-2" stroke-width="1" fill-rule="evenodd" transform="translate(34.000000, 49.000000)" fill="url(#linearGradient-1)">
+                    <circle id="Oval-9" cx="1.5" cy="1.5" r="1.5"></circle>
+                    <circle id="Oval-9" cx="31.5" cy="1.5" r="1.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

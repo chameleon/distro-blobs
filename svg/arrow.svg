@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="17px" viewBox="0 0 45 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Back_Icn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Ver-1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Final-Ver-1.0" transform="translate(-173.000000, -954.000000)" stroke="#FFFFFF" stroke-width="1.125">
+            <g id="Back_Icn" transform="translate(195.562500, 962.250000) scale(-1, 1) translate(-195.562500, -962.250000) translate(174.375000, 954.750000)">
+                <polyline id="Path-4" points="7.875 0 0 7.5 7.73673815 15"></polyline>
+                <path d="M0.75,7.6875 L24.9866547,7.6875" id="Path-5"></path>
+                <path d="M28.125,7.6875 L33.6116547,7.6875" id="Path-5"></path>
+                <path d="M36.75,7.6875 L42.2366547,7.6875" id="Path-5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

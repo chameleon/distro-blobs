@@ -1,0 +1,17 @@
+<svg width="4013" height="847" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="109.57%" y1="100%" x2="65.46%" y2="8.03%" id="a">
+      <stop stop-color="#49557D" offset="0%"/>
+      <stop stop-color="#252D47" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="64.14%" y1="29.73%" x2="66.4%" y2="-21.53%" id="b">
+      <stop stop-color="#FFF" stop-opacity="0" offset="0%"/>
+      <stop stop-color="#FFF" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path stroke-opacity=".01" stroke="#FFF" d="M.5.5h4012v1399H.5z"/>
+    <path d="M2656.43 749.35c443-190.22 674.7-69.36 843.18 179.18 168.48 248.55 551.76 602.71-93.24 495.95-645-106.76-398.91 380.55-1174.9 214.8-529.98-113.21-460.74-686.73-166.84-887.74 118.31-80.92 350.24 101.54 591.8-2.19z" fill="url(#a)" transform="rotate(180 2802.5 841.5)"/>
+    <path d="M2542.3 325.64c443-190.22 674.7-69.37 843.19 179.18 168.47 248.55 551.75 602.71-93.25 495.95-645-106.76-398.9 380.55-1174.9 214.8-529.98-113.22-460.74-686.73-166.84-887.74 118.32-80.92 350.24 101.54 591.8-2.19z" fill-opacity=".12" fill="url(#b)" style="mix-blend-mode:overlay" transform="rotate(165 2730.96 417.79)"/>
+  </g>
+</svg>

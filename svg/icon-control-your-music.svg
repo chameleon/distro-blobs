@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Control_your_Music</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="157.892863%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Ver-1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final-Ver-1.0" transform="translate(-885.000000, -4226.000000)" stroke-width="2">
+            <g id="Control_your_Music" transform="translate(885.000000, 4226.000000)">
+                <path d="M50,1 C22.9380473,1 1,22.9380473 1,50 C1,77.0619527 22.9380473,99 50,99 C77.0619527,99 99,77.0619527 99,50" id="Oval-10" stroke="#49557D" stroke-linecap="round" stroke-linejoin="round" transform="translate(50.000000, 50.000000) rotate(94.000000) translate(-50.000000, -50.000000) "></path>
+                <path d="M11.0000158,51.3530604 C11.7133348,72.2653433 28.8909252,88.9993968 49.9769633,88.9993968 C71.5160686,88.9993968 88.9769633,71.538502 88.9769633,49.9993968 C88.9769633,28.4602915 71.5160686,10.9993968 49.9769633,10.9993968" id="Oval-10" stroke="#49557D" stroke-linecap="round" stroke-linejoin="round" transform="translate(49.988490, 49.999397) rotate(183.000000) translate(-49.988490, -49.999397) "></path>
+                <path d="M21,50 C21,66.0162577 33.9837423,79 50,79 C66.0162577,79 79,66.0162577 79,50 C79,33.9837423 66.0162577,21 50,21" id="Oval-10" stroke="#49557D" stroke-linecap="round" stroke-linejoin="round" transform="translate(50.000000, 50.000000) rotate(180.000000) translate(-50.000000, -50.000000) "></path>
+                <circle id="Oval-10" stroke="url(#linearGradient-1)" cx="50" cy="50" r="19"></circle>
+                <circle id="Oval-10" stroke="url(#linearGradient-1)" cx="50" cy="50" r="9"></circle>
+                <path d="M56.464578,92.0437885 C57.8670868,89.2996179 60.883122,86.3571613 69.1067218,84.5014372 C64.5445781,76.9846913 58.0527652,67.0528654 49.6312832,54.7059594 C48.442536,52.3933015 48.9326549,50.6399728 51.1016399,49.4459733 C53.7506055,48.2032365 55.4456798,49.8012828 56.464578,51.2614497 C59.3945005,55.7440689 62.4996892,60.321472 65.7801441,64.993659 C66.5219363,61.8623181 68.4632667,60.7545963 71.6041352,61.6704935 C73.7052415,57.5692667 76.5535355,58.0395407 79.3438716,59.8050212 C80.3761497,57.9843369 83.9987828,56.2433336 86.6627601,59.8050212 C88.3040318,61.6173729 91.5025102,66.4890227 96.2581952,74.4199707 C98.00494,79.6976637 96.6668597,83.9011391 92.2439543,87.0303968 C87.8210489,90.1596545 84.7651157,92.1704275 83.0761549,93.0627155 C81.4675171,94.0845069 78.4878169,94.3258066 74.1370544,93.7866146 C67.1853634,92.8972343 65.4474081,94.1145825 60.8024175,96.5027985 C57.44177,98.3055155 55.0955172,94.8336643 56.464578,92.0437885 Z" id="Path" stroke="url(#linearGradient-1)" fill="#FFFFFF" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>

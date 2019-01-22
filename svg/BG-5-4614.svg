@@ -1,0 +1,17 @@
+<svg width="4544" height="1781" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="25.46%" y1="-39.99%" y2="113.5%" id="a">
+      <stop stop-color="#F030C1" offset="0%"/>
+      <stop stop-color="#2194D3" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="19.35%" y1="52.82%" x2="22.21%" y2="-114.28%" id="b">
+      <stop stop-color="#FFF" stop-opacity="0" offset="0%"/>
+      <stop stop-color="#FFF" offset="99.18%"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path stroke-opacity=".01" stroke="#FFF" d="M.5 15.5h4543v1399H.5z"/>
+    <path d="M1504.32 1035.37c465.27 110.84-880.98 429.27-445.18 736.39C1719.06 2212.3 2458 1414.86 2458 812.79S2216.72 46.77 2024.76 28.01c-289.03-28.25-429.11 93.8-630.9 334.06-118.33 122.85-319.5 577.74 110.46 673.3z" fill="url(#a)" transform="scale(1 -1) rotate(75 2767.7 80.89)"/>
+    <path d="M994.9 1211.03c420.65 100.14-469.64 552.18-105.63 795.01C1485.9 2404.06 2154 1683.6 2154 1139.64c0-543.95-595.94-719.07-769.48-736.02-97-9.47-461.2-24.73-745.8 187.22-159.52 118.82-281.8 468.31 356.17 620.19z" fill-opacity=".16" fill="url(#b)" style="mix-blend-mode:overlay" transform="scale(-1 1) rotate(-84 -105.5 2574.52)"/>
+  </g>
+</svg>

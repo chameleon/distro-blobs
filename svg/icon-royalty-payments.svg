@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="141px" height="165px" viewBox="0 0 141 165" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Royalty Payments</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="157.892863%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Ver-1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final-Ver-1.0" transform="translate(-1120.000000, -3100.000000)">
+            <g id="Royalty-Payments" transform="translate(1108.000000, 3100.000000)">
+                <path d="M74.2010373,7.73479593 C78.894748,9.38315197 83.9144449,9.38315197 89.2601282,7.73479593 C94.6058115,6.08643989 99.1413266,4.24962164 102.866673,2.22434118 C108.2778,-0.948231128 110.983363,2.04488912 110.983363,11.2037019 C110.983363,20.3625147 103.742285,27.7097877 89.2601282,33.2455209 C120.710156,46.5664047 140.015926,67.5828191 147.177438,96.2947641 C156.822696,134.04427 147.421743,149.601037 140.663862,154.312592 C132.307804,160.138387 121.539185,163.367523 108.358005,164 L52.6794998,163.651608 C41.2627103,163.93743 32.6647238,162.184205 26.8855403,158.391935 C17.663394,153.10978 13,140.494783 13,130.471747 C13,98.132409 25.9208984,51.8066406 74.2010373,33.2455209 C61.5272989,25.5551476 54.3534531,18.2078746 52.6794998,11.2037019 C51.8015399,2.33521602 54.36188,-0.657904221 60.36052,2.22434118 C69.5875315,5.89797768 74.2010373,7.73479593 74.2010373,7.73479593 Z" id="Path" stroke="#49557D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M102.285156,50.7294922 C121.724609,63.0367839 133.776693,79.5332031 138.441406,100.21875" id="Path-10" stroke="#49557D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval-3" stroke="url(#linearGradient-1)" stroke-width="2" cx="83" cy="104" r="40"></circle>
+                <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(68.000000, 75.000000)" stroke="url(#linearGradient-1)" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M14.6736225,56.4701069 L14.6736225,48.4945622" id="Path-12" stroke-width="2"></path>
+                    <path d="M14.6736225,8.41296405 C14.6736225,3.09593426 14.6736225,0.437419372 14.6736225,0.437419372" id="Path-12" stroke-width="2"></path>
+                    <path d="M27.1500651,16.3980146 C23.113997,9.12155051 16.6808915,6.86625994 7.8507487,9.63214286 C0.348236531,12.0572202 -0.71580318,26.5107084 16.6318873,28.4513379 C24.7373561,30.0190202 29.773506,31.2761866 28.5288172,39.9162242 C26.7230332,46.8502291 17.3525098,48.5628627 14.8248405,48.5628627 C12.2971712,48.5628627 1.73930921,47.137265 0.932617188,38.2494141" id="Path-11" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

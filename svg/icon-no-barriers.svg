@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="92px" viewBox="0 0 100 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>NoBarrier_Distribution</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="157.892863%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Ver-1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Final-Ver-1.0" transform="translate(-885.000000, -3947.000000)">
+            <g id="NoBarrier_Distribution" transform="translate(885.000000, 3943.000000)">
+                <g id="Group" transform="translate(1.000000, 5.000000)">
+                    <path d="M14.9020978,67.8762565 C22.673053,81.1190217 36.9853671,90 53.3555556,90 C78.0120014,90 98,69.8528137 98,45 C98,36.7832558 95.8151697,29.0808702 91.9991379,22.4508811 M68.7021468,2.72923525 C63.9167182,0.96358215 58.7477761,0 53.3555556,0 C30.9111828,0 12.3351661,16.6943072 9.18269443,38.4357053" id="Oval-4" stroke="#49557D" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M66.9510905,19.9630761 C62.9158853,17.7321066 58.2827092,16.4634146 53.3555556,16.4634146 C37.7197606,16.4634146 25.0444444,29.2396791 25.0444444,45 C25.0444444,60.7603209 37.7197606,73.5365854 53.3555556,73.5365854 C68.9913505,73.5365854 81.6666667,60.7603209 81.6666667,45 C81.6666667,42.3874145 81.3183536,39.8568297 80.6659815,37.4528521" id="Oval-4" stroke="#49557D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <ellipse id="Oval-5" stroke="url(#linearGradient-1)" stroke-width="2" fill="#FFFFFF" cx="81.6666667" cy="10.9756098" rx="8.71111111" ry="8.7804878"></ellipse>
+                    <ellipse id="Oval-5" stroke="#49557D" stroke-width="2" fill="#FFFFFF" cx="30.4888889" cy="28.5365854" rx="5.44444444" ry="5.48780488"></ellipse>
+                    <ellipse id="Oval-5" stroke="#49557D" stroke-width="2" fill="#FFFFFF" cx="70.7777778" cy="66.9512195" rx="5.44444444" ry="5.48780488"></ellipse>
+                    <ellipse id="Oval-5" stroke="url(#linearGradient-1)" stroke-width="2" fill="#FFFFFF" cx="8.71111111" cy="53.7804878" rx="8.71111111" ry="8.7804878"></ellipse>
+                    <ellipse id="Oval-6" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="53.3555556" cy="45" rx="11.9777778" ry="12.0731707"></ellipse>
+                    <path d="M53.3555556,38.4146341 C49.7472952,38.4146341 46.8222222,41.3630029 46.8222222,45" id="Oval-6" stroke="url(#linearGradient-1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
